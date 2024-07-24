@@ -7,9 +7,9 @@ When I moved to Germany, I had the chance of decorating my own room, therefore, 
 ## Technologies and tools used
 12V LED strip, C/C++ with Arduino IDE, Arduino UNO Rev3 board, MOSFET Transistors, jumper wires, 12V adapter, solder kit 
 ## Procedure 
-•	I cut the LED strip where it had the signs for +12V, Green, Red and Blue then soldered jumper wires to the copper areas 
-•	Made LED controller circuit with MOSFETs and resistors •	Attached jumper wires to the uno board Challenges & solutions 
-•	LED strip ripping when detaching from the wall- slower detaching, soldering parts back together 
-•	Sections of the RGB diodes malfunctioning- cutting and joining functioning parts 
+- I cut the LED strip where it had the signs for +12V, Green, Red and Blue then soldered jumper wires to the copper areas 
+- Made LED controller circuit with MOSFETs and resistors •	Attached jumper wires to the uno board Challenges & solutions 
+- LED strip ripping when detaching from the wall- slower detaching, soldering parts back together 
+- Sections of the RGB diodes malfunctioning- cutting and joining functioning parts 
 ## Further applications 
 This was quite straight forward so the applications are quite broad. To me, the natural progression of this project, would involve a home security system (blinks red when an intruder is recognized), or a system involving Computer Vision.
