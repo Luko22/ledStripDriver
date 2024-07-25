@@ -1,8 +1,8 @@
-# DIY 12v LED strip
+# DIY 12v LED strip Driver
 
 ![WhatsApp Image 2024-07-24 at 23 46 33_800d6cbc](https://github.com/user-attachments/assets/98a5ce74-fe57-4076-ae6d-708169471df1)
 
-When I moved to Germany, I had the chance of decorating my own room, therefore, LED lights were a must. After learning some microcontrollers and coding knowledge, I knew I could tinker with my LED strips. Unfortunately, the first step was to break the IR controller box that came with strip, in order to look at the circuit… solely for research purposes, of course. 
+When I moved to Germany, I had the chance of decorating my own room, therefore, LED lights were a must. After learning some microcontrollers and coding knowledge, I knew I could tinker with my LED strips. Unfortunately, the first step was to break the IR LED Driver box that came with strip, in order to look at the circuit… solely for research purposes, of course. 
 
 ## Technologies and tools used
 12V LED strip, C/C++ with Arduino IDE, Arduino UNO Rev3 board, MOSFET Transistors, jumper wires, 12V adapter, solder kit 
