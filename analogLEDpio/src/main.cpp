@@ -1,5 +1,18 @@
+#define BLYNK_PRINT Serial
+
+#define BLYNK_TEMPLATE_ID "TMPL4eaDBjs8i"
+#define BLYNK_TEMPLATE_NAME "AnalogLED"
+#define BLYNK_AUTH_TOKEN "q8vm40fjnocxbgwH9E5GAzi6ghfeoE7A"
+
 #include <Arduino.h>
-// bynk stuff comes here blablabla
+#include <WiFi.h>
+#include <WiFiClient.h>
+#include <BlynkSimpleEsp32.h>
+
+const char *ssid = "LukoSpot";
+const char *password = "Duisbu5.";
+
+
 #define RED 27
 #define GREEN 26
 #define BLUE 25
